@@ -32,7 +32,7 @@ namespace UnitTest
         }
 
         [Test]
-        public void Test1()
+        public void TestMain()
         {
             var obj = new Dictionary<string, string>();
             obj.Add("key1", "value1");
