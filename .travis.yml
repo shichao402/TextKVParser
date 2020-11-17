@@ -1,0 +1,10 @@
+﻿language: csharp
+solution: TextKVParser.sln
+mono: latest
+dotnet: 3.1.402
+install:
+  - nuget restore TextKVParser.sln
+script:
+  - dotnet build
+  - find .
+  - dotnet test

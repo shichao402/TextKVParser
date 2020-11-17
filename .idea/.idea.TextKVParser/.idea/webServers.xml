@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c11dd83-21eb-46bf-875c-b8e0f08c0ad0" name="nss_trunk" url="http://localhost">
+        <fileTransfer mountedRoot="F:\workspace\nssclient_trunk\NssUnityProj\Assets\Plugins\CrossPlatformLib\QSM\Common" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

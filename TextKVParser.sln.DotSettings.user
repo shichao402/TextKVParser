@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60c0fca7_002Decfd_002D4326_002D8fb7_002D354e929f687b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTestTextKvParser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36CED365-C7AA-40DA-A0B5-BBF8CB8CBC29::.NETCoreApp,Version=v2.0::UnitTest.UnitTestTextKvParser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78ea2894_002Dd8f3_002D46bb_002D8e7b_002D9636a887a537/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTestTextKvParser #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F00964AC-17EF-4AEC-904D-FDC98F4B1211::.NETCoreApp,Version=v3.1::UnitTest.UnitTestTextKvParser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d64d2c4_002Dddc0_002D4458_002D80ef_002Dadb25fdd1347/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTestTextKvParser #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::133AE181-CE41-4E13-84D8-0139299330F0::.NETFramework,Version=v3.5::UnitTest.UnitTestTextKvParser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3b8a160_002Dd72f_002D405a_002Dbf4a_002D9a1baa9e3ed5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTestTextKvParser #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1CF188CB-60CA-4A42-93B7-7DF636744A19::.NETCoreApp,Version=v3.1::UnitTest.UnitTestTextKvParser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e6b6c57a_002D214f_002D4ffc_002Dbff8_002Dd6570ceb9c51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTestTextKvParser #4 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1CF188CB-60CA-4A42-93B7-7DF636744A19::.NETCoreApp,Version=v3.1::UnitTest.UnitTestTextKvParser.Test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
